@@ -1,4 +1,6 @@
 body{
   background: red;
   font-size: 2em;
+  display: flex;
+  flex-direction: row;
 }
